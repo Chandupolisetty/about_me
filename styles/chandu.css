@@ -8,7 +8,7 @@
     justify-content: center;
 }
 
-.profileImg{
+.profileImg {
     width: 100px;
     height: 100px;
     border-radius: 50%;
@@ -17,11 +17,12 @@
 ul {
     list-style-type: none;
 }
-li{
+
+li {
     list-style-type: none;
 }
 
-.contactBody{
+.contactBody {
     background-color: skyblue;
 }
 
@@ -47,13 +48,13 @@ li{
     margin: 0 auto;
 }
 
-.formInput{
+.formInput {
     width: 30%;
     margin: 16px;
     align-self: center;
 }
 
-.formSubmitBtn{
+.formSubmitBtn {
     width: 15%;
     background-color: rgb(3, 122, 3);
     align-self: center;
@@ -63,30 +64,30 @@ li{
     border-radius: 4px;
     border: 0px;
 }
-.formInput1{
+
+.formInput1 {
     width: 50%;
     margin: 16px;
     align-self: center;
 }
 
-.lik{
+.lik {
     object-fit: contain;
     display: flex;
     /* background: red; */
     /* height: 20px !important; */
     /* width: 20px; */
-    flex-direction: row; 
+    flex-direction: row;
 }
 
-.icon{
+.icon {
     margin-top: 16px;
     width: 24px;
     height: 24px;
     margin-right: 8px;
 }
 
-    .html1{
-        width: 550px;
-        height: 300px;
-        
-    }
+.html1 {
+    width: 550px;
+    height: 300px;
+}
