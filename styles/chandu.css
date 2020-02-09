@@ -22,6 +22,10 @@ li {
     list-style-type: none;
 }
 
+.tech{
+    width: 30%;
+}
+
 .contactBody {
     background-color: skyblue;
 }
@@ -90,4 +94,12 @@ li {
 .html1 {
     width: 550px;
     height: 300px;
+    
+}
+.chandu{
+    
+    display :flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    
 }
